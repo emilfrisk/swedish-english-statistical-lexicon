@@ -1,3 +1,9 @@
 {
-  "typvärde" : "mode"
+  "typvärde" : "mode",
+  "medelvärde" : "mean",
+  "median" : "median",
+  "stapeldiagram" : "bar chart",
+  "cirkeldiagram" : "pie chart",
+  "normalfördelning" : "normal distribution",
+  "fördelning" : "distribution"
 }
