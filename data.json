@@ -5,5 +5,7 @@
   "stapeldiagram" : "bar chart",
   "cirkeldiagram" : "pie chart",
   "normalfördelning" : "normal distribution",
-  "fördelning" : "distribution"
+  "fördelning" : "distribution",
+  "frekvens"  : "frequency"
+  
 }
